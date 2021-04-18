@@ -1,0 +1,2 @@
+# Mash-sketched-reference-databases
+Mash-sketched reference databases are an up-to-date representation of several NCBI genomic, proteomic and metagenomic data, curated and formatted according to the sketching  MinHash algorithm developed by Ondov et al. 2016. Mash: fast genome and metagenome distance estimation using MinHash. Genome Biol. Jun 20;17(1):132. doi: 10.1186/s13059-016-0997-x. Each dataset is in .msh format and mostly represents information from type material, in order to offer informative contexts with standard in nomenclature when possible.
