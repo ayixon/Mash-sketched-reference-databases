@@ -27,7 +27,7 @@ Freshwater_Metagenome_assembly_set.msh  # contain 611 freswater metagenomes from
 
 Usage
 
-You can use any of the files with mash tool (see the work of Ondov et al., 2016 About Mash).
+You can use any of the files with mash tool (see the work by Ondov et al., 2016 About Mash).
 
 Example
 
