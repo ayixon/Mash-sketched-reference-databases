@@ -35,6 +35,6 @@ $ mash dist query_genome  Bacteria_Archaea_type_assembly_set.msh > output
 
 If you find this information useful for your work, please cite:
 
-Sánchez-Reyes, A.; Fernández-López, M.G. Mash Sketched Reference Dataset for Genome-Based Taxonomy and Comparative Genomics. Preprints 2021, 2021060368 (doi: 10.20944/preprints202106.0368.v1).
+Sánchez-Reyes, A.; Fernández-López, M.G. Mash Sketched Reference Dataset for Genome-Based Taxonomy and Comparative Genomics. Preprints 2021, 2021060368. https://doi.org/10.20944/preprints202106.0368.v1
 
 Mash sketched databases for: Mash Sketched Reference Dataset for Genome-Based Taxonomy and Comparative Genomics. figshare. Online resource. https://doi.org/10.6084/m9.figshare.14408801.v2 
