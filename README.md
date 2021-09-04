@@ -7,25 +7,25 @@ Mash-sketched reference databases are an up-to-date representation of several NC
 You can download pre sketched files from:
 Sánchez-Reyes, Ayixon (2021): Mash sketched databases for: Mash Sketched Reference Dataset for Genome-Based Taxonomy and Comparative Genomics. figshare. Online resource. https://doi.org/10.6084/m9.figshare.14408801.v3 
 
-Data information:
+# Data information:
 
-Bacteria_Archaea_type_assembly_set.msh  # contain 16,304 type genomes from NCBI
+°Bacteria_Archaea_type_assembly_set.msh  # contain 16,304 type genomes from NCBI: https://figshare.com/ndownloader/files/27631014
 
-Bacteria_Archaea_type_proteome_set.msh  # contain 12,767 type predicted proteomes from NCBI
+°Bacteria_Archaea_type_proteome_set.msh  # contain 12,767 type predicted proteomes from NCBI: https://figshare.com/ndownloader/files/27631017
 
-GTDB_r89_assembly_set.msh               # contain 31,910 genomes from GTDB
+°GTDB_r89_assembly_set.msh               # contain 31,910 genomes from GTDB: https://figshare.com/ndownloader/files/27631029
 
-Fungi_type_assembly_set.msh             # contain 753 type genomes from NCBI
+°Fungi_type_assembly_set.msh             # contain 753 type genomes from NCBI: https://figshare.com/ndownloader/files/27631023
 
-Fungi_type_proteome_set.msh             # contain 248 type predicted proteomes from NCBI
+°Fungi_type_proteome_set.msh             # contain 248 type predicted proteomes from NCBI: https://figshare.com/ndownloader/files/27631026
 
-Virus_ Latest GenBank_assembly_set.msh  # contain 40,708 viral assemblies from NCBI
+°Virus_ Latest GenBank_assembly_set.msh  # contain 40,708 viral assemblies from NCBI: https://figshare.com/ndownloader/files/27631035
 
-Soil_Metgenome_assembly_set.msh         # contain 479 soil metagenomes from NCBI
+°Soil_Metgenome_assembly_set.msh         # contain 479 soil metagenomes from NCBI: https://figshare.com/ndownloader/files/27631032
 
-Freshwater_Metagenome_assembly_set.msh  # contain 611 freswater metagenomes from NCBI
+°Freshwater_Metagenome_assembly_set.msh  # contain 611 freswater metagenomes from NCBI: https://figshare.com/ndownloader/files/27631020
 
-Usage
+# Usage
 
 You can use any of the files with mash tool (see the work by Ondov et al., 2016 About Mash).
 
@@ -33,7 +33,7 @@ Example
 
 $ mash dist query_genome  Bacteria_Archaea_type_assembly_set.msh > output
 
-If you find this information useful for your work, please cite:
+# If you find this information useful for your work, please cite:
 
 Sánchez-Reyes, A.; Fernández-López, M.G. Mash Sketched Reference Dataset for Genome-Based Taxonomy and Comparative Genomics. Preprints 2021, 2021060368. https://doi.org/10.20944/preprints202106.0368.v1
 
