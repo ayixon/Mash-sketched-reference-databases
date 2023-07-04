@@ -33,7 +33,7 @@ You can use any of the files with mash tool (see the work by Ondov et al., 2016 
 
 Example
 
-$ mash dist query_genome    Bacteria_Archaea_type_assembly_set.msh > output
+    $   mash dist query_genome    Bacteria_Archaea_type_assembly_set.msh > output
 
 # If you find this information useful for your work, please cite:
 
